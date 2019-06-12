@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 
-from bassoon.Bassoon import Bassoon
+from bassoon import Bassoon
 
 
 def test_bassoon():
