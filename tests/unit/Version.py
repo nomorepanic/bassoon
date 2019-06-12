@@ -3,4 +3,4 @@ from bassoon.Version import version
 
 
 def test_bassoon_version():
-    assert version == '0.0.1'
+    assert version == '1.0.0'
